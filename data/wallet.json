@@ -1,0 +1,37 @@
+{
+  "rechargeAmounts": [500, 1000, 2000, 3000, 5000],
+  "vouchers": [
+    {
+      "id": "1",
+      "title": "Welcome Offer",
+      "code": "NEW100",
+      "cashback": 100,
+      "description": "₹100 cashback on first recharge of min ₹250",
+      "status": "available",
+      "type": "welcome"
+    },
+    {
+      "id": "2", 
+      "title": "Prepaid 1000",
+      "code": "ADV1000",
+      "cashback": 50,
+      "description": "₹50 cashback on advance payment of ₹1000",
+      "status": "available",
+      "type": "prepaid"
+    }
+  ],
+  "banners": [
+    {
+      "id": "1",
+      "title": "WORLD MILK Day",
+      "subtitle": "1st June",
+      "image": "https://images.unsplash.com/photo-1563636619-e9143da7973b?w=400&h=300&fit=crop"
+    },
+    {
+      "id": "2",
+      "title": "MILK PRODUCTS",
+      "subtitle": "Fresh & Pure",
+      "image": "https://images.unsplash.com/photo-1550583724-b2692b85b150?w=400&h=300&fit=crop"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "orders": [
+    {
+      "id": 1,
+      "status": "pending",
+      "deliveryDate": "Tomorrow, 6:00 AM",
+      "totalAmount": 260,
+      "items": [
+        {
+          "id": 1,
+          "name": "A2 Cow Milk",
+          "quantity": "2 x 500 ml",
+          "price": 140,
+          "image": "https://images.unsplash.com/photo-1550583724-b2692b85b150?w=100&h=100&fit=crop"
+        },
+        {
+          "id": 2,
+          "name": "Fresh Paneer",
+          "quantity": "1 x 200 gm",
+          "price": 120,
+          "image": "https://images.unsplash.com/photo-1628088062854-d1870b4553da?w=100&h=100&fit=crop"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "delivered",
+      "deliveryDate": "Yesterday, 6:15 AM",
+      "totalAmount": 140,
+      "items": [
+        {
+          "id": 3,
+          "name": "A2 Cow Milk",
+          "quantity": "2 x 500 ml",
+          "price": 140,
+          "image": "https://images.unsplash.com/photo-1550583724-b2692b85b150?w=100&h=100&fit=crop"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "delivered",
+      "deliveryDate": "2 days ago, 6:00 AM",
+      "totalAmount": 200,
+      "items": [
+        {
+          "id": 4,
+          "name": "A2 Cow Milk",
+          "quantity": "1 x 1 Ltr",
+          "price": 130,
+          "image": "https://images.unsplash.com/photo-1550583724-b2692b85b150?w=100&h=100&fit=crop"
+        },
+        {
+          "id": 5,
+          "name": "Dahi (Curd)",
+          "quantity": "1 x 400 gm",
+          "price": 60,
+          "image": "https://images.unsplash.com/photo-1571212515416-fca88c6c4b3c?w=100&h=100&fit=crop"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "canceled",
+      "deliveryDate": "3 days ago",
+      "totalAmount": 65,
+      "items": [
+        {
+          "id": 6,
+          "name": "Buffalo Milk",
+          "quantity": "1 x 500 ml",
+          "price": 65,
+          "image": "https://images.unsplash.com/photo-1563636619-e9143da7973b?w=100&h=100&fit=crop"
+        }
+      ]
+    }
+  ]
+}

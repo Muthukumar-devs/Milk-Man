@@ -1,0 +1,132 @@
+{
+  "bannerOffers": [
+    {
+      "id": "1",
+      "title": "25% OFF",
+      "subtitle": "On First Milk Order",
+      "description": "Get 25% off on your first milk subscription above ₹300",
+      "code": "MILK25",
+      "image": "https://images.unsplash.com/photo-1550583724-b2692b85b150?w=400&h=200&fit=crop",
+      "validTill": "31 Jan 2025",
+      "minOrder": 300
+    },
+    {
+      "id": "2",
+      "title": "FREE DELIVERY",
+      "subtitle": "All Dairy Orders",
+      "description": "Free delivery on all dairy orders above ₹200",
+      "code": "DAIRYFREE",
+      "image": "https://images.unsplash.com/photo-1563636619-e9143da7973b?w=400&h=200&fit=crop",
+      "validTill": "28 Feb 2025",
+      "minOrder": 200
+    }
+  ],
+  "categoryOffers": [
+    {
+      "id": "1",
+      "category": "Milk",
+      "title": "20% OFF on Milk",
+      "description": "A2 Cow & Buffalo Milk",
+      "discount": "20%",
+      "code": "MILK20",
+      "image": "https://images.unsplash.com/photo-1550583724-b2692b85b150?w=300&h=200&fit=crop",
+      "validTill": "15 Feb 2025"
+    },
+    {
+      "id": "2",
+      "category": "Paneer",
+      "title": "15% OFF on Paneer",
+      "description": "Fresh daily paneer",
+      "discount": "15%",
+      "code": "PANEER15",
+      "image": "https://images.unsplash.com/photo-1628088062854-d1870b4553da?w=300&h=200&fit=crop",
+      "validTill": "20 Feb 2025"
+    },
+    {
+      "id": "3",
+      "category": "Ghee",
+      "title": "10% OFF on Ghee",
+      "description": "Pure A2 Desi Ghee",
+      "discount": "10%",
+      "code": "GHEE10",
+      "image": "https://images.unsplash.com/photo-1589985270826-4b7bb135bc9d?w=300&h=200&fit=crop",
+      "validTill": "25 Feb 2025"
+    }
+  ],
+  "flashDeals": [
+    {
+      "id": "1",
+      "title": "Flash Sale",
+      "subtitle": "Limited Time",
+      "discount": "30%",
+      "originalPrice": 130,
+      "salePrice": 91,
+      "product": "A2 Cow Milk 1 Ltr",
+      "image": "https://images.unsplash.com/photo-1550583724-b2692b85b150?w=200&h=200&fit=crop",
+      "timeLeft": "3h 00m",
+      "stock": 20
+    },
+    {
+      "id": "2",
+      "title": "Today Only",
+      "subtitle": "Special Price",
+      "discount": "25%",
+      "originalPrice": 150,
+      "salePrice": 112,
+      "product": "Fresh Paneer 200gm",
+      "image": "https://images.unsplash.com/photo-1628088062854-d1870b4553da?w=200&h=200&fit=crop",
+      "timeLeft": "5h 30m",
+      "stock": 10
+    }
+  ],
+  "vipOffers": [
+    {
+      "id": "1",
+      "title": "VIP Milk Saver",
+      "description": "Extra 20% off on all milk orders",
+      "code": "VIPMILK",
+      "discount": "20%",
+      "image": "https://images.unsplash.com/photo-1550583724-b2692b85b150?w=300&h=150&fit=crop"
+    },
+    {
+      "id": "2",
+      "title": "VIP Dairy Bundle",
+      "description": "Free delivery + 15% off on dairy",
+      "code": "VIPDAIRY",
+      "minOrder": 200,
+      "image": "https://images.unsplash.com/photo-1563636619-e9143da7973b?w=300&h=150&fit=crop"
+    }
+  ],
+  "coupons": [
+    {
+      "id": "1",
+      "code": "SAVE50",
+      "title": "₹50 OFF",
+      "description": "On milk orders above ₹500",
+      "discount": 50,
+      "minOrder": 500,
+      "validTill": "31 Jan 2025",
+      "used": false
+    },
+    {
+      "id": "2",
+      "code": "DAIRY20",
+      "title": "20% OFF",
+      "description": "On all dairy products",
+      "discount": "20%",
+      "minOrder": 300,
+      "validTill": "28 Jan 2025",
+      "used": false
+    },
+    {
+      "id": "3",
+      "code": "NEWMILK",
+      "title": "₹100 OFF",
+      "description": "For new milk subscribers only",
+      "discount": 100,
+      "minOrder": 400,
+      "validTill": "15 Feb 2025",
+      "used": true
+    }
+  ]
+}

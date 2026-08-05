@@ -1,0 +1,68 @@
+{
+  "transactions": [
+    {
+      "id": "1",
+      "title": "Un-billed consumption",
+      "date": "",
+      "amount": 0,
+      "type": "debit",
+      "balance": 100,
+      "category": "consumption"
+    },
+    {
+      "id": "2",
+      "title": "Subscription Invoice",
+      "date": "12 Aug 2023",
+      "amount": 1900,
+      "type": "debit",
+      "balance": 100,
+      "category": "subscription"
+    },
+    {
+      "id": "3",
+      "title": "Wallet Top up",
+      "date": "10 Aug 2023",
+      "amount": 1900,
+      "type": "credit",
+      "balance": 2000,
+      "category": "topup"
+    },
+    {
+      "id": "4",
+      "title": "Grocery Order",
+      "date": "9 Aug 2023",
+      "amount": 1000,
+      "type": "debit",
+      "balance": 100,
+      "category": "order"
+    },
+    {
+      "id": "5",
+      "title": "Payment",
+      "date": "9 Aug 2023",
+      "amount": 1000,
+      "type": "credit",
+      "balance": 1100,
+      "category": "payment"
+    },
+    {
+      "id": "6",
+      "title": "Subscription Invoice",
+      "date": "1 Aug 2023",
+      "amount": 1900,
+      "type": "debit",
+      "balance": 100,
+      "category": "subscription"
+    },
+    {
+      "id": "7",
+      "title": "Wallet Top up",
+      "date": "1 Aug 2023",
+      "amount": 2000,
+      "type": "credit",
+      "balance": 2000,
+      "category": "topup"
+    }
+  ],
+  "currentBalance": 100
+}
